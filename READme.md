@@ -1,6 +1,6 @@
 
 
-###  ![Human Verified](https://img.shields.io/badge/Hirecruiter_IM-DEFINITELY_HUMAN-brightgreen?style=for-the-badge)
+###  ![Human Verified](https://img.shields.io/badge/Hi-recruiter_I-AM-DEFINITELY_HUMAN-brightgreen?style=for-the-badge)
 
 
 ## Bypassing AI-noise detection defense systems via high-fidelity human verification.     
