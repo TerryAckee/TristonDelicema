@@ -1,4 +1,4 @@
-
+External Verification of my linked account ownership ~ https://www.linkedin.com/in/triston-delicema-450062275/
 
 ###  ![Human Verified](https://img.shields.io/badge/Hi_recruiter_I_AM-DEFINITELY_HUMAN-brightgreen?style=for-the-badge)
 
