@@ -1,4 +1,5 @@
-External Verification of my linked account ownership ~ https://www.linkedin.com/in/triston-delicema-450062275/
+External Verification of my linked account ownership ~ https://www.linkedin.com/in/triston-delicema-45006227[![LinkedIn Verified](https://img.shields.io/badge/LINKEDIN-VERIFIED-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_URL_HERE)5/
+
 
 ###  ![Human Verified](https://img.shields.io/badge/Hi_recruiter_I_AM-DEFINITELY_HUMAN-brightgreen?style=for-the-badge)
 
